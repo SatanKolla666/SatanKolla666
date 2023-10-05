@@ -42,7 +42,7 @@ You can use the website to generate badges: https://shields.io/
 
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=SatanKolla666&theme=react&cache_border=true&bg_color=000000" width="40%">](https://github.com/SatanKolla666) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashithmanuka2006&theme=react&cache_border=true&bg_color=000000" width="40%" align="right">](https://github.com/SatanKolla666)
+[<img src="https://github-readme-stats.vercel.app/api?username=SatanKolla666&theme=react&cache_border=true&bg_color=000000" width="40%">](https://github.com/SatanKolla666) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatanKolla666&theme=react&cache_border=true&bg_color=000000" width="40%" align="right">](https://github.com/SatanKolla666)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
